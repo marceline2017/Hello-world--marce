@@ -88,6 +88,9 @@ def make_general_ledger():
         elif account == "6200":
             amount = log_uniform(3000, 9000)
             vendor = ""
+        elif account == "5000":
+            amount = log_uniform(1500, 25000)      # stock purchases are bigger
+            vendor = ACCOUNT_VENDOR[account]
         else:
             amount = log_uniform(50, 8000)
             vendor = ACCOUNT_VENDOR[account]
@@ -184,6 +187,16 @@ def make_general_ledger():
     removed = set(random.sample([r["entry_id"] for r in rows[:1200]], 3))
     rows = [r for r in rows if r["entry_id"] not in removed]
 
+    # 10) Near-duplicates: the same invoice paid again a few days later
+    for r in [x for x in rows if x["vendor_id"] in ("V002", "V003")][5:7]:
+        again = dict(r)
+        later = date.fromisoformat(r["date"]) + timedelta(days=4)
+        while later.weekday() >= 5:
+            later += timedelta(days=1)
+        entry_no += 1
+        again.update(entry_id=entry_no, date=later.isoformat())
+        rows.append(again)
+
     rows.sort(key=lambda r: (r["date"], r["entry_id"]))
     with open(HERE / "general_ledger.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=list(rows[0]))
@@ -224,4 +237,6 @@ if __name__ == "__main__":
     make_general_ledger()
     make_vendors()
     make_messy_invoices()
+    import make_practice_data          # the extra files for lessons 11-13
+    make_practice_data.main()
     print("Done! Your practice data is ready.")

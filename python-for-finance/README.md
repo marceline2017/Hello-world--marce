@@ -74,9 +74,29 @@ yourself – don't copy and paste. Your fingers learn too.
 | 8 | [Audit analytics](lessons/lesson08_audit_analytics.py) | journal entry testing on 100% of data | duplicates, weekends, self-approval, Benford's Law |
 | 9 | [Finance calculations](lessons/lesson09_finance_calculations.py) | time value of money | NPV, IRR, loan schedules, ratios, returns |
 | 10 | [Charts & reports](lessons/lesson10_charts_and_reports.py) | matplotlib, Excel output | management report with charts |
+| 11 | [Bank reconciliation](lessons/lesson11_bank_reconciliation.py) | matching two files, finding differences | reperforming the client's December bank rec |
+| 12 | [Budget vs actual](lessons/lesson12_budget_analysis.py) | variances, thresholds, flexed budgets | budget testing and analytical review |
+| 13 | [Journals & trial balance](lessons/lesson13_journals_trial_balance.py) | double entry, building a TB | unbalanced journals, suspense, manual journal testing |
 | ★ | [Capstone project](capstone/PROJECT_BRIEF.md) | everything together | a full year-end ledger review + memo |
 
 All outputs (Excel files, charts, CSVs) are saved in the `output/` folder.
+
+---
+
+## 3b. Practice sets – lots of extra practice (79 tasks)
+
+After the lessons, work through these. Each task is a small, real audit or
+finance job. They start easy ("Warm-up") and get harder ("Challenge").
+
+| Set | File | Tasks | What you practise | Do it after |
+|-----|------|-------|-------------------|-------------|
+| 1 | [General ledger analysis](practice/01_gl_analysis.py) | 25 | totals, trends, user activity, stratification, sample selection, near-duplicates, cut-off, relative size factor | Lesson 8 |
+| 2 | [Journals & trial balance](practice/02_journals_and_trial_balance.py) | 18 | building and comparing a TB, roll-forwards, debtor/creditor/inventory days, reperforming depreciation, recurring journal completeness | Lesson 13 |
+| 3 | [Bank reconciliation](practice/03_bank_reconciliation.py) | 18 | casting, matching, outstanding cheques, deposits in transit, stale cheques, finding the client's errors, adjusting entries | Lesson 11 |
+| 4 | [Budget analysis](practice/04_budget_analysis.py) | 18 | testing the budget, variances, F/A, thresholds, YTD, flexed budget, seasonality, budget realism, forecasts | Lesson 12 |
+
+Write your answers under each `# TODO`. Solutions are in `practice/solutions/`.
+There is always more than one right answer. If your numbers match, you got it!
 
 ---
 
@@ -92,6 +112,22 @@ All outputs (Excel files, charts, CSVs) are saved in the `output/` folder.
   capstone teach you to find them all.
 - `vendors.csv` – the approved supplier list (one supplier is blocked).
 - `messy_invoices.csv` – a small, very dirty file for the cleaning lesson.
+
+**Bank reconciliation (December 2025)**
+- `cash_book_dec.csv` – the company's own record of its bank account.
+- `bank_statement_dec.csv` – the bank's record (different layout, on purpose).
+- `outstanding_nov.csv` – cheques still outstanding on November's reconciliation.
+- `client_bank_rec_dec.csv` – the reconciliation the client prepared.
+  **It has mistakes and a "plug" figure** – your job is to find them.
+
+**Budget**
+- `budget_2025.csv` – the monthly budget for every account.
+- `prior_year_2024.csv` – last year's actual totals.
+
+**Double-entry journals**
+- `journal_lines.csv` – about 250 journals (600 debit/credit lines) for 2025,
+  with unbalanced journals, suspense postings and suspicious manual journals hidden inside.
+- `client_trial_balance.csv` – the client's trial balance (it doesn't agree to the journals!).
 
 ---
 

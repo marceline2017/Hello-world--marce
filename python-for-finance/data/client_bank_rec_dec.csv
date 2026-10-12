@@ -1,0 +1,14 @@
+line,description,amount
+1,Balance per bank statement 31 Dec 2025,83999.25
+2,Add: deposit in transit DEP-1213,16779.85
+3,Less: outstanding cheque CHQ-1118,-3295.10
+4,Less: outstanding cheque CHQ-1119,-4921.41
+5,Less: outstanding cheque CHQ-0950,-780.00
+6,ADJUSTED BANK BALANCE,91782.59
+7,Balance per cash book 31 Dec 2025,94495.79
+8,Less: direct debit - insurance,-1200.00
+9,Less: returned cheque - Beta Ltd,-3400.00
+10,Less: bank charges,-145.50
+11,Add: interest received,62.30
+12,ADJUSTED CASH BOOK BALANCE,89812.59
+13,Unreconciled difference - written off to sundry expenses,1970.00
