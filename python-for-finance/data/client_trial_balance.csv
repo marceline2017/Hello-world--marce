@@ -1,0 +1,16 @@
+account,account_name,debit,credit
+1000,Cash at Bank,144188.94,
+1100,Accounts Receivable,106299.74,
+1200,Inventory,163254.46,
+1500,Equipment,182000.04,
+2000,Accounts Payable,,66101.92
+2500,Bank Loan,,70000.00
+3000,Share Capital,,330000.00
+4000,Sales Revenue,,802675.45
+5000,Cost of Goods Sold,426735.76,
+6100,Rent Expense,54000.00,
+6200,Salaries Expense,131600.00,
+6300,Utilities Expense,8901.05,
+6400,Travel Expense,9802.42,
+6800,Depreciation Expense,39999.96,
+7000,Interest Expense,6960.00,

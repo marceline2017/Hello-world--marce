@@ -1,0 +1,12 @@
+Invoice No, Customer ,Invoice Date,Amount,Status
+INV-001,acme corp,2025-01-15,"1,200.50",Paid
+INV-002,  Beta Ltd,2025-01-20,$850.00,paid
+INV-003,ACME CORP ,2025-02-03,2300,UNPAID
+INV-004,Gamma Inc,2025-02-10,,Unpaid
+INV-005,beta ltd,2025-02-28,"4,000.00",Paid 
+INV-005,beta ltd,2025-02-28,"4,000.00",Paid 
+INV-006,Delta Co,2025-03-05,1500.75,unpaid
+INV-007,Gamma Inc,2025-03-18,n/a,Paid
+INV-008,delta co,2025-03-30,"$2,750.00",Unpaid
+INV-009,Acme Corp,2025-04-02,980,PAID
+INV-010,,2025-04-15,640.00,Unpaid

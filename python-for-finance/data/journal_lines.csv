@@ -1,0 +1,607 @@
+journal_id,line,date,account,account_name,debit,credit,description,source,posted_by
+J0001,1,2025-01-01,1000,Cash at Bank,200000.00,,Opening balances,manual,amina
+J0001,2,2025-01-01,1500,Equipment,200000.00,,Opening balances,manual,amina
+J0001,3,2025-01-01,3000,Share Capital,,330000.00,Opening balances,manual,amina
+J0001,4,2025-01-01,2500,Bank Loan,,70000.00,Opening balances,manual,amina
+J0002,1,2025-01-05,6300,Utilities Expense,2592.30,,Utilities bill,system,system
+J0002,2,2025-01-05,2000,Accounts Payable,,2592.30,Utilities bill,system,system
+J0006,1,2025-01-06,1100,Accounts Receivable,13729.32,,Sales invoice,system,system
+J0006,2,2025-01-06,4000,Sales Revenue,,13729.32,Sales invoice,system,system
+J0006,3,2025-01-06,5000,Cost of Goods Sold,7881.39,,Sales invoice,system,system
+J0006,4,2025-01-06,1200,Inventory,,7881.39,Sales invoice,system,system
+J0005,1,2025-01-08,1200,Inventory,15720.76,,Supplier invoice - stock,system,system
+J0005,2,2025-01-08,2000,Accounts Payable,,15720.76,Supplier invoice - stock,system,system
+J0009,1,2025-01-08,1100,Accounts Receivable,19367.40,,Sales invoice,system,system
+J0009,2,2025-01-08,4000,Sales Revenue,,19367.40,Sales invoice,system,system
+J0009,3,2025-01-08,5000,Cost of Goods Sold,12058.08,,Sales invoice,system,system
+J0009,4,2025-01-08,1200,Inventory,,12058.08,Sales invoice,system,system
+J0003,1,2025-01-09,1200,Inventory,29495.33,,Supplier invoice - stock,system,system
+J0003,2,2025-01-09,2000,Accounts Payable,,29495.33,Supplier invoice - stock,system,system
+J0012,1,2025-01-10,2000,Accounts Payable,38288.85,,Supplier payment,system,system
+J0012,2,2025-01-10,1000,Cash at Bank,,38288.85,Supplier payment,system,system
+J0011,1,2025-01-11,1100,Accounts Receivable,3533.05,,Sales invoice,system,system
+J0011,2,2025-01-11,4000,Sales Revenue,,3533.05,Sales invoice,system,system
+J0011,3,2025-01-11,5000,Cost of Goods Sold,2272.25,,Sales invoice,system,system
+J0011,4,2025-01-11,1200,Inventory,,2272.25,Sales invoice,system,system
+J0014,1,2025-01-11,1100,Accounts Receivable,16456.16,,Sales invoice,system,system
+J0014,2,2025-01-11,4000,Sales Revenue,,16456.16,Sales invoice,system,system
+J0014,3,2025-01-11,5000,Cost of Goods Sold,9460.42,,Sales invoice,system,system
+J0014,4,2025-01-11,1200,Inventory,,9460.42,Sales invoice,system,system
+J0007,1,2025-01-14,1000,Cash at Bank,7021.84,,Customer receipt,system,system
+J0007,2,2025-01-14,1100,Accounts Receivable,,7021.84,Customer receipt,system,system
+J0013,1,2025-01-14,1200,Inventory,14849.79,,Supplier invoice - stock,system,system
+J0013,2,2025-01-14,2000,Accounts Payable,,14849.79,Supplier invoice - stock,system,system
+J0010,1,2025-01-17,1000,Cash at Bank,11870.44,,Customer receipt,system,system
+J0010,2,2025-01-17,1100,Accounts Receivable,,11870.44,Customer receipt,system,system
+J0004,1,2025-01-24,1200,Inventory,23275.90,,Supplier invoice - stock,system,system
+J0004,2,2025-01-24,2000,Accounts Payable,,23275.90,Supplier invoice - stock,system,system
+J0008,1,2025-01-28,1200,Inventory,19297.97,,Supplier invoice - stock,system,system
+J0008,2,2025-01-28,2000,Accounts Payable,,19297.97,Supplier invoice - stock,system,system
+J0015,1,2025-01-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0015,2,2025-01-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0016,1,2025-01-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0016,2,2025-01-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0017,1,2025-01-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0017,2,2025-01-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0018,1,2025-01-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0018,2,2025-01-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0023,1,2025-02-02,2000,Accounts Payable,21452.68,,Supplier payment,system,system
+J0023,2,2025-02-02,1000,Cash at Bank,,21452.68,Supplier payment,system,system
+J0027,1,2025-02-02,1200,Inventory,18476.47,,Supplier invoice - stock,system,system
+J0027,2,2025-02-02,2000,Accounts Payable,,18476.47,Supplier invoice - stock,system,system
+J0019,1,2025-02-05,1100,Accounts Receivable,4612.47,,Sales invoice,system,system
+J0019,2,2025-02-05,4000,Sales Revenue,,4612.47,Sales invoice,system,system
+J0019,3,2025-02-05,5000,Cost of Goods Sold,2643.64,,Sales invoice,system,system
+J0019,4,2025-02-05,1200,Inventory,,2643.64,Sales invoice,system,system
+J0020,1,2025-02-05,1000,Cash at Bank,13770.30,,Customer receipt,system,system
+J0020,2,2025-02-05,1100,Accounts Receivable,,13770.30,Customer receipt,system,system
+J0022,1,2025-02-09,1000,Cash at Bank,13467.48,,Customer receipt,system,system
+J0022,2,2025-02-09,1100,Accounts Receivable,,13467.48,Customer receipt,system,system
+J0026,1,2025-02-09,1200,Inventory,9010.25,,Supplier invoice - stock,system,system
+J0026,2,2025-02-09,2000,Accounts Payable,,9010.25,Supplier invoice - stock,system,system
+J0029,1,2025-02-09,1200,Inventory,9153.42,,Supplier invoice - stock,system,system
+J0029,2,2025-02-09,2000,Accounts Payable,,9153.42,Supplier invoice - stock,system,system
+J0030,1,2025-02-09,1000,Cash at Bank,16757.05,,Customer receipt,system,system
+J0030,2,2025-02-09,1100,Accounts Receivable,,16757.05,Customer receipt,system,system
+J0025,1,2025-02-11,2000,Accounts Payable,18214.30,,Supplier payment,system,system
+J0025,2,2025-02-11,1000,Cash at Bank,,18214.30,Supplier payment,system,system
+J0035,1,2025-02-12,1000,Cash at Bank,21833.81,,Customer receipt,system,system
+J0035,2,2025-02-12,1100,Accounts Receivable,,21833.81,Customer receipt,system,system
+J0028,1,2025-02-14,1200,Inventory,11381.70,,Supplier invoice - stock,system,system
+J0028,2,2025-02-14,2000,Accounts Payable,,11381.70,Supplier invoice - stock,system,system
+J0021,1,2025-02-17,1200,Inventory,6645.53,,Supplier invoice - stock,system,system
+J0021,2,2025-02-17,2000,Accounts Payable,,6645.53,Supplier invoice - stock,system,system
+J0033,1,2025-02-18,1100,Accounts Receivable,22337.71,,Sales invoice,system,system
+J0033,2,2025-02-18,4000,Sales Revenue,,22337.71,Sales invoice,system,system
+J0033,3,2025-02-18,5000,Cost of Goods Sold,13692.52,,Sales invoice,system,system
+J0033,4,2025-02-18,1200,Inventory,,13692.52,Sales invoice,system,system
+J0024,1,2025-02-19,1100,Accounts Receivable,17795.81,,Sales invoice,system,system
+J0024,2,2025-02-19,4000,Sales Revenue,,17795.81,Sales invoice,system,system
+J0024,3,2025-02-19,5000,Cost of Goods Sold,10847.79,,Sales invoice,system,system
+J0024,4,2025-02-19,1200,Inventory,,10847.79,Sales invoice,system,system
+J0031,1,2025-02-22,1100,Accounts Receivable,2538.94,,Sales invoice,system,system
+J0031,2,2025-02-22,4000,Sales Revenue,,2538.94,Sales invoice,system,system
+J0031,3,2025-02-22,5000,Cost of Goods Sold,1531.35,,Sales invoice,system,system
+J0031,4,2025-02-22,1200,Inventory,,1531.35,Sales invoice,system,system
+J0032,1,2025-02-27,6300,Utilities Expense,1814.05,,Utilities bill,system,system
+J0032,2,2025-02-27,2000,Accounts Payable,,1814.05,Utilities bill,system,system
+J0034,1,2025-02-27,1200,Inventory,14167.13,,Supplier invoice - stock,system,system
+J0034,2,2025-02-27,2000,Accounts Payable,,14167.13,Supplier invoice - stock,system,system
+J0036,1,2025-02-28,2000,Accounts Payable,30532.03,,Supplier payment,system,system
+J0036,2,2025-02-28,1000,Cash at Bank,,30532.03,Supplier payment,system,system
+J0037,1,2025-02-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0037,2,2025-02-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0038,1,2025-02-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0038,2,2025-02-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0039,1,2025-02-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0039,2,2025-02-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0040,1,2025-02-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0040,2,2025-02-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0049,1,2025-03-02,1100,Accounts Receivable,18803.27,,Sales invoice,system,system
+J0049,2,2025-03-02,4000,Sales Revenue,,18803.27,Sales invoice,system,system
+J0049,3,2025-03-02,5000,Cost of Goods Sold,12022.36,,Sales invoice,system,system
+J0049,4,2025-03-02,1200,Inventory,,12022.36,Sales invoice,system,system
+J0042,1,2025-03-03,1100,Accounts Receivable,9742.50,,Sales invoice,system,system
+J0042,2,2025-03-03,4000,Sales Revenue,,9742.50,Sales invoice,system,system
+J0042,3,2025-03-03,5000,Cost of Goods Sold,5715.52,,Sales invoice,system,system
+J0042,4,2025-03-03,1200,Inventory,,5715.52,Sales invoice,system,system
+J0044,1,2025-03-05,1000,Cash at Bank,3604.82,,Customer receipt,system,system
+J0044,2,2025-03-05,1100,Accounts Receivable,,3604.82,Customer receipt,system,system
+J0051,1,2025-03-05,2000,Accounts Payable,21788.69,,Supplier payment,system,system
+J0051,2,2025-03-05,1000,Cash at Bank,,21788.69,Supplier payment,system,system
+J0054,1,2025-03-08,1200,Inventory,29699.75,,Supplier invoice - stock,system,system
+J0054,2,2025-03-08,2000,Accounts Payable,,29699.75,Supplier invoice - stock,system,system
+J0045,1,2025-03-10,1100,Accounts Receivable,7925.04,,Sales invoice,system,system
+J0045,2,2025-03-10,4000,Sales Revenue,,7925.04,Sales invoice,system,system
+J0045,3,2025-03-10,5000,Cost of Goods Sold,4457.57,,Sales invoice,system,system
+J0045,4,2025-03-10,1200,Inventory,,4457.57,Sales invoice,system,system
+J0239,1,2025-03-14,1200,Inventory,4870.00,,Supplier invoice - stock,manual,brian
+J0239,2,2025-03-14,2000,Accounts Payable,,4780.00,Supplier invoice - stock,manual,brian
+J0046,1,2025-03-16,1100,Accounts Receivable,16358.88,,Sales invoice,system,system
+J0046,2,2025-03-16,4000,Sales Revenue,,16358.88,Sales invoice,system,system
+J0046,3,2025-03-16,5000,Cost of Goods Sold,9515.29,,Sales invoice,system,system
+J0046,4,2025-03-16,1200,Inventory,,9515.29,Sales invoice,system,system
+J0053,1,2025-03-16,1000,Cash at Bank,8216.12,,Customer receipt,system,system
+J0053,2,2025-03-16,1100,Accounts Receivable,,8216.12,Customer receipt,system,system
+J0041,1,2025-03-17,1000,Cash at Bank,7247.33,,Customer receipt,system,system
+J0041,2,2025-03-17,1100,Accounts Receivable,,7247.33,Customer receipt,system,system
+J0050,1,2025-03-18,1000,Cash at Bank,14014.81,,Customer receipt,system,system
+J0050,2,2025-03-18,1100,Accounts Receivable,,14014.81,Customer receipt,system,system
+J0047,1,2025-03-21,1100,Accounts Receivable,2266.88,,Sales invoice,system,system
+J0047,2,2025-03-21,4000,Sales Revenue,,2266.88,Sales invoice,system,system
+J0047,3,2025-03-21,5000,Cost of Goods Sold,1248.29,,Sales invoice,system,system
+J0047,4,2025-03-21,1200,Inventory,,1248.29,Sales invoice,system,system
+J0048,1,2025-03-24,1000,Cash at Bank,15493.88,,Customer receipt,system,system
+J0048,2,2025-03-24,1100,Accounts Receivable,,15493.88,Customer receipt,system,system
+J0043,1,2025-03-25,1000,Cash at Bank,9912.65,,Customer receipt,system,system
+J0043,2,2025-03-25,1100,Accounts Receivable,,9912.65,Customer receipt,system,system
+J0052,1,2025-03-27,1100,Accounts Receivable,2643.06,,Sales invoice,system,system
+J0052,2,2025-03-27,4000,Sales Revenue,,2643.06,Sales invoice,system,system
+J0052,3,2025-03-27,5000,Cost of Goods Sold,1585.40,,Sales invoice,system,system
+J0052,4,2025-03-27,1200,Inventory,,1585.40,Sales invoice,system,system
+J0055,1,2025-03-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0055,2,2025-03-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0056,1,2025-03-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0056,2,2025-03-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0057,1,2025-03-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0057,2,2025-03-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0058,1,2025-03-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0058,2,2025-03-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0065,1,2025-04-01,1100,Accounts Receivable,8884.00,,Sales invoice,system,system
+J0065,2,2025-04-01,4000,Sales Revenue,,8884.00,Sales invoice,system,system
+J0065,3,2025-04-01,5000,Cost of Goods Sold,4906.85,,Sales invoice,system,system
+J0065,4,2025-04-01,1200,Inventory,,4906.85,Sales invoice,system,system
+J0063,1,2025-04-02,1000,Cash at Bank,8322.90,,Customer receipt,system,system
+J0063,2,2025-04-02,1100,Accounts Receivable,,8322.90,Customer receipt,system,system
+J0071,1,2025-04-02,1100,Accounts Receivable,17143.10,,Sales invoice,system,system
+J0071,2,2025-04-02,4000,Sales Revenue,,17143.10,Sales invoice,system,system
+J0071,3,2025-04-02,5000,Cost of Goods Sold,10380.97,,Sales invoice,system,system
+J0071,4,2025-04-02,1200,Inventory,,10380.97,Sales invoice,system,system
+J0068,1,2025-04-03,6400,Travel Expense,2824.62,,Travel claim,system,system
+J0068,2,2025-04-03,1000,Cash at Bank,,2824.62,Travel claim,system,system
+J0069,1,2025-04-05,1100,Accounts Receivable,13152.38,,Sales invoice,system,system
+J0069,2,2025-04-05,4000,Sales Revenue,,13152.38,Sales invoice,system,system
+J0069,3,2025-04-05,5000,Cost of Goods Sold,8417.95,,Sales invoice,system,system
+J0069,4,2025-04-05,1200,Inventory,,8417.95,Sales invoice,system,system
+J0074,1,2025-04-08,1100,Accounts Receivable,22099.36,,Sales invoice,system,system
+J0074,2,2025-04-08,4000,Sales Revenue,,22099.36,Sales invoice,system,system
+J0074,3,2025-04-08,5000,Cost of Goods Sold,12583.43,,Sales invoice,system,system
+J0074,4,2025-04-08,1200,Inventory,,12583.43,Sales invoice,system,system
+J0075,1,2025-04-08,1000,Cash at Bank,37663.00,,Customer receipt,system,system
+J0075,2,2025-04-08,1100,Accounts Receivable,,37663.00,Customer receipt,system,system
+J0064,1,2025-04-11,2000,Accounts Payable,31219.68,,Supplier payment,system,system
+J0064,2,2025-04-11,1000,Cash at Bank,,31219.68,Supplier payment,system,system
+J0066,1,2025-04-12,2000,Accounts Payable,18764.93,,Supplier payment,system,system
+J0066,2,2025-04-12,1000,Cash at Bank,,18764.93,Supplier payment,system,system
+J0073,1,2025-04-12,1100,Accounts Receivable,15276.58,,Sales invoice,system,system
+J0073,2,2025-04-12,4000,Sales Revenue,,15276.58,Sales invoice,system,system
+J0073,3,2025-04-12,5000,Cost of Goods Sold,9035.20,,Sales invoice,system,system
+J0073,4,2025-04-12,1200,Inventory,,9035.20,Sales invoice,system,system
+J0070,1,2025-04-19,6400,Travel Expense,564.52,,Travel claim,system,system
+J0070,2,2025-04-19,1000,Cash at Bank,,564.52,Travel claim,system,system
+J0062,1,2025-04-21,1200,Inventory,9664.72,,Supplier invoice - stock,system,system
+J0062,2,2025-04-21,2000,Accounts Payable,,9664.72,Supplier invoice - stock,system,system
+J0060,1,2025-04-22,1100,Accounts Receivable,8228.96,,Sales invoice,system,system
+J0060,2,2025-04-22,4000,Sales Revenue,,8228.96,Sales invoice,system,system
+J0060,3,2025-04-22,5000,Cost of Goods Sold,4573.18,,Sales invoice,system,system
+J0060,4,2025-04-22,1200,Inventory,,4573.18,Sales invoice,system,system
+J0072,1,2025-04-22,1100,Accounts Receivable,19838.93,,Sales invoice,system,system
+J0072,2,2025-04-22,4000,Sales Revenue,,19838.93,Sales invoice,system,system
+J0072,3,2025-04-22,5000,Cost of Goods Sold,11316.27,,Sales invoice,system,system
+J0072,4,2025-04-22,1200,Inventory,,11316.27,Sales invoice,system,system
+J0059,1,2025-04-24,6400,Travel Expense,760.02,,Travel claim,system,system
+J0059,2,2025-04-24,1000,Cash at Bank,,760.02,Travel claim,system,system
+J0061,1,2025-04-27,1000,Cash at Bank,7864.45,,Customer receipt,system,system
+J0061,2,2025-04-27,1100,Accounts Receivable,,7864.45,Customer receipt,system,system
+J0067,1,2025-04-27,2000,Accounts Payable,9314.34,,Supplier payment,system,system
+J0067,2,2025-04-27,1000,Cash at Bank,,9314.34,Supplier payment,system,system
+J0076,1,2025-04-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0076,2,2025-04-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0077,1,2025-04-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0077,2,2025-04-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0078,1,2025-04-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0078,2,2025-04-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0079,1,2025-04-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0079,2,2025-04-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0095,1,2025-05-02,1000,Cash at Bank,9061.53,,Customer receipt,system,system
+J0095,2,2025-05-02,1100,Accounts Receivable,,9061.53,Customer receipt,system,system
+J0094,1,2025-05-03,2000,Accounts Payable,17163.90,,Supplier payment,system,system
+J0094,2,2025-05-03,1000,Cash at Bank,,17163.90,Supplier payment,system,system
+J0088,1,2025-05-04,1000,Cash at Bank,10202.74,,Customer receipt,system,system
+J0088,2,2025-05-04,1100,Accounts Receivable,,10202.74,Customer receipt,system,system
+J0084,1,2025-05-05,1200,Inventory,17984.15,,Supplier invoice - stock,system,system
+J0084,2,2025-05-05,2000,Accounts Payable,,17984.15,Supplier invoice - stock,system,system
+J0093,1,2025-05-05,6300,Utilities Expense,1442.32,,Utilities bill,system,system
+J0093,2,2025-05-05,2000,Accounts Payable,,1442.32,Utilities bill,system,system
+J0081,1,2025-05-12,1000,Cash at Bank,32185.12,,Customer receipt,system,system
+J0081,2,2025-05-12,1100,Accounts Receivable,,32185.12,Customer receipt,system,system
+J0085,1,2025-05-16,1000,Cash at Bank,21104.82,,Customer receipt,system,system
+J0085,2,2025-05-16,1100,Accounts Receivable,,21104.82,Customer receipt,system,system
+J0090,1,2025-05-19,1100,Accounts Receivable,2209.15,,Sales invoice,system,system
+J0090,2,2025-05-19,4000,Sales Revenue,,2209.15,Sales invoice,system,system
+J0090,3,2025-05-19,5000,Cost of Goods Sold,1232.60,,Sales invoice,system,system
+J0090,4,2025-05-19,1200,Inventory,,1232.60,Sales invoice,system,system
+J0086,1,2025-05-20,1200,Inventory,14307.46,,Supplier invoice - stock,system,system
+J0086,2,2025-05-20,2000,Accounts Payable,,14307.46,Supplier invoice - stock,system,system
+J0082,1,2025-05-22,1100,Accounts Receivable,4725.51,,Sales invoice,system,system
+J0082,2,2025-05-22,4000,Sales Revenue,,4725.51,Sales invoice,system,system
+J0082,3,2025-05-22,5000,Cost of Goods Sold,2689.84,,Sales invoice,system,system
+J0082,4,2025-05-22,1200,Inventory,,2689.84,Sales invoice,system,system
+J0083,1,2025-05-25,1100,Accounts Receivable,9758.81,,Sales invoice,system,system
+J0083,2,2025-05-25,4000,Sales Revenue,,9758.81,Sales invoice,system,system
+J0083,3,2025-05-25,5000,Cost of Goods Sold,6248.68,,Sales invoice,system,system
+J0083,4,2025-05-25,1200,Inventory,,6248.68,Sales invoice,system,system
+J0092,1,2025-05-25,1200,Inventory,11545.75,,Supplier invoice - stock,system,system
+J0092,2,2025-05-25,2000,Accounts Payable,,11545.75,Supplier invoice - stock,system,system
+J0080,1,2025-05-26,1200,Inventory,18731.60,,Supplier invoice - stock,system,system
+J0080,2,2025-05-26,2000,Accounts Payable,,18731.60,Supplier invoice - stock,system,system
+J0087,1,2025-05-27,1000,Cash at Bank,9093.56,,Customer receipt,system,system
+J0087,2,2025-05-27,1100,Accounts Receivable,,9093.56,Customer receipt,system,system
+J0089,1,2025-05-27,1100,Accounts Receivable,16876.45,,Sales invoice,system,system
+J0089,2,2025-05-27,4000,Sales Revenue,,16876.45,Sales invoice,system,system
+J0089,3,2025-05-27,5000,Cost of Goods Sold,9853.46,,Sales invoice,system,system
+J0089,4,2025-05-27,1200,Inventory,,9853.46,Sales invoice,system,system
+J0091,1,2025-05-28,2000,Accounts Payable,36586.46,,Supplier payment,system,system
+J0091,2,2025-05-28,1000,Cash at Bank,,36586.46,Supplier payment,system,system
+J0096,1,2025-05-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0096,2,2025-05-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0097,1,2025-05-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0097,2,2025-05-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0098,1,2025-05-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0098,2,2025-05-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0099,1,2025-05-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0099,2,2025-05-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0104,1,2025-06-02,2000,Accounts Payable,11577.07,,Supplier payment,system,system
+J0104,2,2025-06-02,1000,Cash at Bank,,11577.07,Supplier payment,system,system
+J0111,1,2025-06-02,1000,Cash at Bank,2776.59,,Customer receipt,system,system
+J0111,2,2025-06-02,1100,Accounts Receivable,,2776.59,Customer receipt,system,system
+J0116,1,2025-06-03,1000,Cash at Bank,7196.26,,Customer receipt,system,system
+J0116,2,2025-06-03,1100,Accounts Receivable,,7196.26,Customer receipt,system,system
+J0113,1,2025-06-04,1000,Cash at Bank,944.03,,Customer receipt,system,system
+J0113,2,2025-06-04,1100,Accounts Receivable,,944.03,Customer receipt,system,system
+J0112,1,2025-06-05,1200,Inventory,7720.26,,Supplier invoice - stock,system,system
+J0112,2,2025-06-05,2000,Accounts Payable,,7720.26,Supplier invoice - stock,system,system
+J0110,1,2025-06-07,1200,Inventory,20590.99,,Supplier invoice - stock,system,system
+J0110,2,2025-06-07,2000,Accounts Payable,,20590.99,Supplier invoice - stock,system,system
+J0101,1,2025-06-11,6400,Travel Expense,1157.68,,Travel claim,system,system
+J0101,2,2025-06-11,1000,Cash at Bank,,1157.68,Travel claim,system,system
+J0100,1,2025-06-12,2000,Accounts Payable,14711.33,,Supplier payment,system,system
+J0100,2,2025-06-12,1000,Cash at Bank,,14711.33,Supplier payment,system,system
+J0115,1,2025-06-12,1100,Accounts Receivable,17587.35,,Sales invoice,system,system
+J0115,2,2025-06-12,4000,Sales Revenue,,17587.35,Sales invoice,system,system
+J0115,3,2025-06-12,5000,Cost of Goods Sold,10601.98,,Sales invoice,system,system
+J0115,4,2025-06-12,1200,Inventory,,10601.98,Sales invoice,system,system
+J0108,1,2025-06-13,1000,Cash at Bank,3053.43,,Customer receipt,system,system
+J0108,2,2025-06-13,1100,Accounts Receivable,,3053.43,Customer receipt,system,system
+J0114,1,2025-06-14,1000,Cash at Bank,391.83,,Customer receipt,system,system
+J0114,2,2025-06-14,1100,Accounts Receivable,,391.83,Customer receipt,system,system
+J0103,1,2025-06-15,1200,Inventory,19269.36,,Supplier invoice - stock,system,system
+J0103,2,2025-06-15,2000,Accounts Payable,,19269.36,Supplier invoice - stock,system,system
+J0102,1,2025-06-20,2000,Accounts Payable,5177.07,,Supplier payment,system,system
+J0102,2,2025-06-20,1000,Cash at Bank,,5177.07,Supplier payment,system,system
+J0106,1,2025-06-23,6400,Travel Expense,1410.11,,Travel claim,system,system
+J0106,2,2025-06-23,1000,Cash at Bank,,1410.11,Travel claim,system,system
+J0107,1,2025-06-24,1000,Cash at Bank,9660.94,,Customer receipt,system,system
+J0107,2,2025-06-24,1100,Accounts Receivable,,9660.94,Customer receipt,system,system
+J0109,1,2025-06-25,2000,Accounts Payable,14565.53,,Supplier payment,system,system
+J0109,2,2025-06-25,1000,Cash at Bank,,14565.53,Supplier payment,system,system
+J0105,1,2025-06-26,1200,Inventory,6618.85,,Supplier invoice - stock,system,system
+J0105,2,2025-06-26,2000,Accounts Payable,,6618.85,Supplier invoice - stock,system,system
+J0117,1,2025-06-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0117,2,2025-06-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0118,1,2025-06-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0118,2,2025-06-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0119,1,2025-06-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0119,2,2025-06-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0120,1,2025-06-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0120,2,2025-06-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0136,1,2025-07-02,1000,Cash at Bank,22628.33,,Customer receipt,system,system
+J0136,2,2025-07-02,1100,Accounts Receivable,,22628.33,Customer receipt,system,system
+J0126,1,2025-07-05,1100,Accounts Receivable,4282.24,,Sales invoice,system,system
+J0126,2,2025-07-05,4000,Sales Revenue,,4282.24,Sales invoice,system,system
+J0126,3,2025-07-05,5000,Cost of Goods Sold,2703.80,,Sales invoice,system,system
+J0126,4,2025-07-05,1200,Inventory,,2703.80,Sales invoice,system,system
+J0122,1,2025-07-06,2000,Accounts Payable,20611.48,,Supplier payment,system,system
+J0122,2,2025-07-06,1000,Cash at Bank,,20611.48,Supplier payment,system,system
+J0123,1,2025-07-08,1200,Inventory,21638.32,,Supplier invoice - stock,system,system
+J0123,2,2025-07-08,2000,Accounts Payable,,21638.32,Supplier invoice - stock,system,system
+J0124,1,2025-07-09,1100,Accounts Receivable,8221.60,,Sales invoice,system,system
+J0124,2,2025-07-09,4000,Sales Revenue,,8221.60,Sales invoice,system,system
+J0124,3,2025-07-09,5000,Cost of Goods Sold,4733.14,,Sales invoice,system,system
+J0124,4,2025-07-09,1200,Inventory,,4733.14,Sales invoice,system,system
+J0240,1,2025-07-09,6400,Travel Expense,1250.00,,Travel claim,manual,chen
+J0240,2,2025-07-09,1000,Cash at Bank,,1150.00,Travel claim,manual,chen
+J0133,1,2025-07-12,2000,Accounts Payable,19699.08,,Supplier payment,system,system
+J0133,2,2025-07-12,1000,Cash at Bank,,19699.08,Supplier payment,system,system
+J0134,1,2025-07-12,1200,Inventory,4216.60,,Supplier invoice - stock,system,system
+J0134,2,2025-07-12,2000,Accounts Payable,,4216.60,Supplier invoice - stock,system,system
+J0135,1,2025-07-13,1100,Accounts Receivable,11554.70,,Sales invoice,system,system
+J0135,2,2025-07-13,4000,Sales Revenue,,11554.70,Sales invoice,system,system
+J0135,3,2025-07-13,5000,Cost of Goods Sold,6521.66,,Sales invoice,system,system
+J0135,4,2025-07-13,1200,Inventory,,6521.66,Sales invoice,system,system
+J0130,1,2025-07-14,1200,Inventory,17494.42,,Supplier invoice - stock,system,system
+J0130,2,2025-07-14,2000,Accounts Payable,,17494.42,Supplier invoice - stock,system,system
+J0132,1,2025-07-14,1200,Inventory,13353.75,,Supplier invoice - stock,system,system
+J0132,2,2025-07-14,2000,Accounts Payable,,13353.75,Supplier invoice - stock,system,system
+J0121,1,2025-07-15,1000,Cash at Bank,5645.26,,Customer receipt,system,system
+J0121,2,2025-07-15,1100,Accounts Receivable,,5645.26,Customer receipt,system,system
+J0128,1,2025-07-15,1100,Accounts Receivable,16915.35,,Sales invoice,system,system
+J0128,2,2025-07-15,4000,Sales Revenue,,16915.35,Sales invoice,system,system
+J0128,3,2025-07-15,5000,Cost of Goods Sold,10141.13,,Sales invoice,system,system
+J0128,4,2025-07-15,1200,Inventory,,10141.13,Sales invoice,system,system
+J0129,1,2025-07-17,1100,Accounts Receivable,10420.53,,Sales invoice,system,system
+J0129,2,2025-07-17,4000,Sales Revenue,,10420.53,Sales invoice,system,system
+J0129,3,2025-07-17,5000,Cost of Goods Sold,5824.46,,Sales invoice,system,system
+J0129,4,2025-07-17,1200,Inventory,,5824.46,Sales invoice,system,system
+J0131,1,2025-07-19,2000,Accounts Payable,40701.60,,Supplier payment,system,system
+J0131,2,2025-07-19,1000,Cash at Bank,,40701.60,Supplier payment,system,system
+J0137,1,2025-07-25,2000,Accounts Payable,15747.43,,Supplier payment,system,system
+J0137,2,2025-07-25,1000,Cash at Bank,,15747.43,Supplier payment,system,system
+J0125,1,2025-07-26,1200,Inventory,11802.17,,Supplier invoice - stock,system,system
+J0125,2,2025-07-26,2000,Accounts Payable,,11802.17,Supplier invoice - stock,system,system
+J0127,1,2025-07-28,1200,Inventory,12395.83,,Supplier invoice - stock,system,system
+J0127,2,2025-07-28,2000,Accounts Payable,,12395.83,Supplier invoice - stock,system,system
+J0138,1,2025-07-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0138,2,2025-07-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0139,1,2025-07-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0139,2,2025-07-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0140,1,2025-07-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0140,2,2025-07-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0141,1,2025-07-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0141,2,2025-07-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0151,1,2025-08-03,1000,Cash at Bank,10979.11,,Customer receipt,system,system
+J0151,2,2025-08-03,1100,Accounts Receivable,,10979.11,Customer receipt,system,system
+J0157,1,2025-08-06,1100,Accounts Receivable,19282.00,,Sales invoice,system,system
+J0157,2,2025-08-06,4000,Sales Revenue,,19282.00,Sales invoice,system,system
+J0157,3,2025-08-06,5000,Cost of Goods Sold,10922.25,,Sales invoice,system,system
+J0157,4,2025-08-06,1200,Inventory,,10922.25,Sales invoice,system,system
+J0152,1,2025-08-07,1000,Cash at Bank,5777.26,,Customer receipt,system,system
+J0152,2,2025-08-07,1100,Accounts Receivable,,5777.26,Customer receipt,system,system
+J0154,1,2025-08-08,2000,Accounts Payable,28769.17,,Supplier payment,system,system
+J0154,2,2025-08-08,1000,Cash at Bank,,28769.17,Supplier payment,system,system
+J0153,1,2025-08-09,1200,Inventory,17603.12,,Supplier invoice - stock,system,system
+J0153,2,2025-08-09,2000,Accounts Payable,,17603.12,Supplier invoice - stock,system,system
+J0149,1,2025-08-13,1100,Accounts Receivable,11263.91,,Sales invoice,system,system
+J0149,2,2025-08-13,4000,Sales Revenue,,11263.91,Sales invoice,system,system
+J0149,3,2025-08-13,5000,Cost of Goods Sold,7236.09,,Sales invoice,system,system
+J0149,4,2025-08-13,1200,Inventory,,7236.09,Sales invoice,system,system
+J0155,1,2025-08-13,1100,Accounts Receivable,6562.36,,Sales invoice,system,system
+J0155,2,2025-08-13,4000,Sales Revenue,,6562.36,Sales invoice,system,system
+J0155,3,2025-08-13,5000,Cost of Goods Sold,3918.87,,Sales invoice,system,system
+J0155,4,2025-08-13,1200,Inventory,,3918.87,Sales invoice,system,system
+J0158,1,2025-08-13,1000,Cash at Bank,11693.80,,Customer receipt,system,system
+J0158,2,2025-08-13,1100,Accounts Receivable,,11693.80,Customer receipt,system,system
+J0150,1,2025-08-14,6300,Utilities Expense,1444.50,,Utilities bill,system,system
+J0150,2,2025-08-14,2000,Accounts Payable,,1444.50,Utilities bill,system,system
+J0147,1,2025-08-16,1000,Cash at Bank,29431.35,,Customer receipt,system,system
+J0147,2,2025-08-16,1100,Accounts Receivable,,29431.35,Customer receipt,system,system
+J0143,1,2025-08-17,1100,Accounts Receivable,3001.43,,Sales invoice,system,system
+J0143,2,2025-08-17,4000,Sales Revenue,,3001.43,Sales invoice,system,system
+J0143,3,2025-08-17,5000,Cost of Goods Sold,1725.86,,Sales invoice,system,system
+J0143,4,2025-08-17,1200,Inventory,,1725.86,Sales invoice,system,system
+J0144,1,2025-08-17,1100,Accounts Receivable,3183.39,,Sales invoice,system,system
+J0144,2,2025-08-17,4000,Sales Revenue,,3183.39,Sales invoice,system,system
+J0144,3,2025-08-17,5000,Cost of Goods Sold,2018.73,,Sales invoice,system,system
+J0144,4,2025-08-17,1200,Inventory,,2018.73,Sales invoice,system,system
+J0156,1,2025-08-18,1200,Inventory,14509.41,,Supplier invoice - stock,system,system
+J0156,2,2025-08-18,2000,Accounts Payable,,14509.41,Supplier invoice - stock,system,system
+J0142,1,2025-08-20,1200,Inventory,16829.20,,Supplier invoice - stock,system,system
+J0142,2,2025-08-20,2000,Accounts Payable,,16829.20,Supplier invoice - stock,system,system
+J0145,1,2025-08-22,1200,Inventory,6854.66,,Supplier invoice - stock,system,system
+J0145,2,2025-08-22,2000,Accounts Payable,,6854.66,Supplier invoice - stock,system,system
+J0148,1,2025-08-26,1000,Cash at Bank,12737.69,,Customer receipt,system,system
+J0148,2,2025-08-26,1100,Accounts Receivable,,12737.69,Customer receipt,system,system
+J0146,1,2025-08-28,1100,Accounts Receivable,14313.00,,Sales invoice,system,system
+J0146,2,2025-08-28,4000,Sales Revenue,,14313.00,Sales invoice,system,system
+J0146,3,2025-08-28,5000,Cost of Goods Sold,8346.45,,Sales invoice,system,system
+J0146,4,2025-08-28,1200,Inventory,,8346.45,Sales invoice,system,system
+J0159,1,2025-08-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0159,2,2025-08-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0160,1,2025-08-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0160,2,2025-08-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0161,1,2025-08-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0161,2,2025-08-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0162,1,2025-08-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0162,2,2025-08-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0242,1,2025-08-30,1000,Cash at Bank,6250.00,,Unknown receipt - to investigate,manual,diana
+J0242,2,2025-08-30,9999,Suspense,,6250.00,Unknown receipt - to investigate,manual,diana
+J0172,1,2025-09-03,2000,Accounts Payable,23427.97,,Supplier payment,system,system
+J0172,2,2025-09-03,1000,Cash at Bank,,23427.97,Supplier payment,system,system
+J0175,1,2025-09-03,6300,Utilities Expense,2929.58,,Utilities bill,system,system
+J0175,2,2025-09-03,2000,Accounts Payable,,2929.58,Utilities bill,system,system
+J0174,1,2025-09-05,1000,Cash at Bank,6616.86,,Customer receipt,system,system
+J0174,2,2025-09-05,1100,Accounts Receivable,,6616.86,Customer receipt,system,system
+J0168,1,2025-09-10,1000,Cash at Bank,20535.49,,Customer receipt,system,system
+J0168,2,2025-09-10,1100,Accounts Receivable,,20535.49,Customer receipt,system,system
+J0164,1,2025-09-11,1100,Accounts Receivable,22914.89,,Sales invoice,system,system
+J0164,2,2025-09-11,4000,Sales Revenue,,22914.89,Sales invoice,system,system
+J0164,3,2025-09-11,5000,Cost of Goods Sold,13303.53,,Sales invoice,system,system
+J0164,4,2025-09-11,1200,Inventory,,13303.53,Sales invoice,system,system
+J0166,1,2025-09-11,1000,Cash at Bank,20962.91,,Customer receipt,system,system
+J0166,2,2025-09-11,1100,Accounts Receivable,,20962.91,Customer receipt,system,system
+J0169,1,2025-09-11,1200,Inventory,7397.85,,Supplier invoice - stock,system,system
+J0169,2,2025-09-11,2000,Accounts Payable,,7397.85,Supplier invoice - stock,system,system
+J0170,1,2025-09-14,1100,Accounts Receivable,9088.84,,Sales invoice,system,system
+J0170,2,2025-09-14,4000,Sales Revenue,,9088.84,Sales invoice,system,system
+J0170,3,2025-09-14,5000,Cost of Goods Sold,5449.98,,Sales invoice,system,system
+J0170,4,2025-09-14,1200,Inventory,,5449.98,Sales invoice,system,system
+J0176,1,2025-09-14,1200,Inventory,18579.25,,Supplier invoice - stock,system,system
+J0176,2,2025-09-14,2000,Accounts Payable,,18579.25,Supplier invoice - stock,system,system
+J0165,1,2025-09-17,6400,Travel Expense,2244.71,,Travel claim,system,system
+J0165,2,2025-09-17,1000,Cash at Bank,,2244.71,Travel claim,system,system
+J0163,1,2025-09-18,1000,Cash at Bank,6767.88,,Customer receipt,system,system
+J0163,2,2025-09-18,1100,Accounts Receivable,,6767.88,Customer receipt,system,system
+J0167,1,2025-09-20,1100,Accounts Receivable,24412.64,,Sales invoice,system,system
+J0167,2,2025-09-20,4000,Sales Revenue,,24412.64,Sales invoice,system,system
+J0167,3,2025-09-20,5000,Cost of Goods Sold,13683.69,,Sales invoice,system,system
+J0167,4,2025-09-20,1200,Inventory,,13683.69,Sales invoice,system,system
+J0171,1,2025-09-22,1200,Inventory,16057.76,,Supplier invoice - stock,system,system
+J0171,2,2025-09-22,2000,Accounts Payable,,16057.76,Supplier invoice - stock,system,system
+J0173,1,2025-09-26,1000,Cash at Bank,15568.87,,Customer receipt,system,system
+J0173,2,2025-09-26,1100,Accounts Receivable,,15568.87,Customer receipt,system,system
+J0177,1,2025-09-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0177,2,2025-09-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0178,1,2025-09-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0178,2,2025-09-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0179,1,2025-09-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0179,2,2025-09-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0180,1,2025-09-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0180,2,2025-09-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0182,1,2025-10-02,1100,Accounts Receivable,9303.23,,Sales invoice,system,system
+J0182,2,2025-10-02,4000,Sales Revenue,,9303.23,Sales invoice,system,system
+J0182,3,2025-10-02,5000,Cost of Goods Sold,5229.28,,Sales invoice,system,system
+J0182,4,2025-10-02,1200,Inventory,,5229.28,Sales invoice,system,system
+J0193,1,2025-10-04,1100,Accounts Receivable,18201.03,,Sales invoice,system,system
+J0193,2,2025-10-04,4000,Sales Revenue,,18201.03,Sales invoice,system,system
+J0193,3,2025-10-04,5000,Cost of Goods Sold,10740.90,,Sales invoice,system,system
+J0193,4,2025-10-04,1200,Inventory,,10740.90,Sales invoice,system,system
+J0191,1,2025-10-05,1200,Inventory,14336.44,,Supplier invoice - stock,system,system
+J0191,2,2025-10-05,2000,Accounts Payable,,14336.44,Supplier invoice - stock,system,system
+J0187,1,2025-10-07,1100,Accounts Receivable,16869.76,,Sales invoice,system,system
+J0187,2,2025-10-07,4000,Sales Revenue,,16869.76,Sales invoice,system,system
+J0187,3,2025-10-07,5000,Cost of Goods Sold,10657.27,,Sales invoice,system,system
+J0187,4,2025-10-07,1200,Inventory,,10657.27,Sales invoice,system,system
+J0185,1,2025-10-08,1000,Cash at Bank,23785.56,,Customer receipt,system,system
+J0185,2,2025-10-08,1100,Accounts Receivable,,23785.56,Customer receipt,system,system
+J0190,1,2025-10-09,1000,Cash at Bank,10762.75,,Customer receipt,system,system
+J0190,2,2025-10-09,1100,Accounts Receivable,,10762.75,Customer receipt,system,system
+J0192,1,2025-10-09,1000,Cash at Bank,8092.11,,Customer receipt,system,system
+J0192,2,2025-10-09,1100,Accounts Receivable,,8092.11,Customer receipt,system,system
+J0186,1,2025-10-11,1100,Accounts Receivable,10310.74,,Sales invoice,system,system
+J0186,2,2025-10-11,4000,Sales Revenue,,10310.74,Sales invoice,system,system
+J0186,3,2025-10-11,5000,Cost of Goods Sold,6498.78,,Sales invoice,system,system
+J0186,4,2025-10-11,1200,Inventory,,6498.78,Sales invoice,system,system
+J0188,1,2025-10-11,1100,Accounts Receivable,20424.14,,Sales invoice,system,system
+J0188,2,2025-10-11,4000,Sales Revenue,,20424.14,Sales invoice,system,system
+J0188,3,2025-10-11,5000,Cost of Goods Sold,12738.08,,Sales invoice,system,system
+J0188,4,2025-10-11,1200,Inventory,,12738.08,Sales invoice,system,system
+J0189,1,2025-10-12,1000,Cash at Bank,39163.15,,Customer receipt,system,system
+J0189,2,2025-10-12,1100,Accounts Receivable,,39163.15,Customer receipt,system,system
+J0184,1,2025-10-15,1100,Accounts Receivable,11926.64,,Sales invoice,system,system
+J0184,2,2025-10-15,4000,Sales Revenue,,11926.64,Sales invoice,system,system
+J0184,3,2025-10-15,5000,Cost of Goods Sold,6617.92,,Sales invoice,system,system
+J0184,4,2025-10-15,1200,Inventory,,6617.92,Sales invoice,system,system
+J0183,1,2025-10-18,1100,Accounts Receivable,15437.47,,Sales invoice,system,system
+J0183,2,2025-10-18,4000,Sales Revenue,,15437.47,Sales invoice,system,system
+J0183,3,2025-10-18,5000,Cost of Goods Sold,9076.03,,Sales invoice,system,system
+J0183,4,2025-10-18,1200,Inventory,,9076.03,Sales invoice,system,system
+J0241,1,2025-10-21,1000,Cash at Bank,9300.00,,Customer receipt,manual,brian
+J0241,2,2025-10-21,1100,Accounts Receivable,,3900.00,Customer receipt,manual,brian
+J0194,1,2025-10-23,2000,Accounts Payable,33856.47,,Supplier payment,system,system
+J0194,2,2025-10-23,1000,Cash at Bank,,33856.47,Supplier payment,system,system
+J0181,1,2025-10-27,1200,Inventory,17303.15,,Supplier invoice - stock,system,system
+J0181,2,2025-10-27,2000,Accounts Payable,,17303.15,Supplier invoice - stock,system,system
+J0195,1,2025-10-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0195,2,2025-10-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0196,1,2025-10-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0196,2,2025-10-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0197,1,2025-10-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0197,2,2025-10-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0198,1,2025-10-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0198,2,2025-10-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0212,1,2025-11-02,1000,Cash at Bank,12731.31,,Customer receipt,system,system
+J0212,2,2025-11-02,1100,Accounts Receivable,,12731.31,Customer receipt,system,system
+J0213,1,2025-11-02,6300,Utilities Expense,393.87,,Utilities bill,system,system
+J0213,2,2025-11-02,2000,Accounts Payable,,393.87,Utilities bill,system,system
+J0202,1,2025-11-05,1100,Accounts Receivable,6139.76,,Sales invoice,system,system
+J0202,2,2025-11-05,4000,Sales Revenue,,6139.76,Sales invoice,system,system
+J0202,3,2025-11-05,5000,Cost of Goods Sold,3848.53,,Sales invoice,system,system
+J0202,4,2025-11-05,1200,Inventory,,3848.53,Sales invoice,system,system
+J0216,1,2025-11-05,1000,Cash at Bank,5587.13,,Customer receipt,system,system
+J0216,2,2025-11-05,1100,Accounts Receivable,,5587.13,Customer receipt,system,system
+J0211,1,2025-11-10,2000,Accounts Payable,6231.09,,Supplier payment,system,system
+J0211,2,2025-11-10,1000,Cash at Bank,,6231.09,Supplier payment,system,system
+J0210,1,2025-11-12,6400,Travel Expense,2965.10,,Travel claim,system,system
+J0210,2,2025-11-12,1000,Cash at Bank,,2965.10,Travel claim,system,system
+J0199,1,2025-11-14,1100,Accounts Receivable,18905.21,,Sales invoice,system,system
+J0199,2,2025-11-14,4000,Sales Revenue,,18905.21,Sales invoice,system,system
+J0199,3,2025-11-14,5000,Cost of Goods Sold,11153.22,,Sales invoice,system,system
+J0199,4,2025-11-14,1200,Inventory,,11153.22,Sales invoice,system,system
+J0207,1,2025-11-16,2000,Accounts Payable,23882.61,,Supplier payment,system,system
+J0207,2,2025-11-16,1000,Cash at Bank,,23882.61,Supplier payment,system,system
+J0201,1,2025-11-18,1000,Cash at Bank,15660.51,,Customer receipt,system,system
+J0201,2,2025-11-18,1100,Accounts Receivable,,15660.51,Customer receipt,system,system
+J0205,1,2025-11-18,1100,Accounts Receivable,10055.04,,Sales invoice,system,system
+J0205,2,2025-11-18,4000,Sales Revenue,,10055.04,Sales invoice,system,system
+J0205,3,2025-11-18,5000,Cost of Goods Sold,5612.79,,Sales invoice,system,system
+J0205,4,2025-11-18,1200,Inventory,,5612.79,Sales invoice,system,system
+J0203,1,2025-11-22,6400,Travel Expense,1625.66,,Travel claim,system,system
+J0203,2,2025-11-22,1000,Cash at Bank,,1625.66,Travel claim,system,system
+J0214,1,2025-11-22,1100,Accounts Receivable,2224.91,,Sales invoice,system,system
+J0214,2,2025-11-22,4000,Sales Revenue,,2224.91,Sales invoice,system,system
+J0214,3,2025-11-22,5000,Cost of Goods Sold,1410.32,,Sales invoice,system,system
+J0214,4,2025-11-22,1200,Inventory,,1410.32,Sales invoice,system,system
+J0209,1,2025-11-23,1100,Accounts Receivable,20993.63,,Sales invoice,system,system
+J0209,2,2025-11-23,4000,Sales Revenue,,20993.63,Sales invoice,system,system
+J0209,3,2025-11-23,5000,Cost of Goods Sold,13297.27,,Sales invoice,system,system
+J0209,4,2025-11-23,1200,Inventory,,13297.27,Sales invoice,system,system
+J0200,1,2025-11-24,1000,Cash at Bank,14541.45,,Customer receipt,system,system
+J0200,2,2025-11-24,1100,Accounts Receivable,,14541.45,Customer receipt,system,system
+J0215,1,2025-11-24,1000,Cash at Bank,14580.10,,Customer receipt,system,system
+J0215,2,2025-11-24,1100,Accounts Receivable,,14580.10,Customer receipt,system,system
+J0208,1,2025-11-27,1100,Accounts Receivable,7370.13,,Sales invoice,system,system
+J0208,2,2025-11-27,4000,Sales Revenue,,7370.13,Sales invoice,system,system
+J0208,3,2025-11-27,5000,Cost of Goods Sold,4397.00,,Sales invoice,system,system
+J0208,4,2025-11-27,1200,Inventory,,4397.00,Sales invoice,system,system
+J0204,1,2025-11-28,2000,Accounts Payable,21159.78,,Supplier payment,system,system
+J0204,2,2025-11-28,1000,Cash at Bank,,21159.78,Supplier payment,system,system
+J0206,1,2025-11-28,1000,Cash at Bank,18905.72,,Customer receipt,system,system
+J0206,2,2025-11-28,1100,Accounts Receivable,,18905.72,Customer receipt,system,system
+J0217,1,2025-11-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0217,2,2025-11-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0218,1,2025-11-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0218,2,2025-11-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0219,1,2025-11-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0219,2,2025-11-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0220,1,2025-11-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0220,2,2025-11-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0243,1,2025-11-30,9999,Suspense,1875.00,,Difference - to clear later,manual,diana
+J0243,2,2025-11-30,6300,Utilities Expense,,1875.00,Difference - to clear later,manual,diana
+J0230,1,2025-12-01,1200,Inventory,24178.23,,Supplier invoice - stock,system,system
+J0230,2,2025-12-01,2000,Accounts Payable,,24178.23,Supplier invoice - stock,system,system
+J0223,1,2025-12-03,1000,Cash at Bank,4496.21,,Customer receipt,system,system
+J0223,2,2025-12-03,1100,Accounts Receivable,,4496.21,Customer receipt,system,system
+J0233,1,2025-12-06,1200,Inventory,22962.92,,Supplier invoice - stock,system,system
+J0233,2,2025-12-06,2000,Accounts Payable,,22962.92,Supplier invoice - stock,system,system
+J0227,1,2025-12-07,1100,Accounts Receivable,11862.60,,Sales invoice,system,system
+J0227,2,2025-12-07,4000,Sales Revenue,,11862.60,Sales invoice,system,system
+J0227,3,2025-12-07,5000,Cost of Goods Sold,7006.04,,Sales invoice,system,system
+J0227,4,2025-12-07,1200,Inventory,,7006.04,Sales invoice,system,system
+J0221,1,2025-12-09,2000,Accounts Payable,6249.33,,Supplier payment,system,system
+J0221,2,2025-12-09,1000,Cash at Bank,,6249.33,Supplier payment,system,system
+J0231,1,2025-12-09,1100,Accounts Receivable,16456.15,,Sales invoice,system,system
+J0231,2,2025-12-09,4000,Sales Revenue,,16456.15,Sales invoice,system,system
+J0231,3,2025-12-09,5000,Cost of Goods Sold,10558.26,,Sales invoice,system,system
+J0231,4,2025-12-09,1200,Inventory,,10558.26,Sales invoice,system,system
+J0228,1,2025-12-12,1100,Accounts Receivable,17266.59,,Sales invoice,system,system
+J0228,2,2025-12-12,4000,Sales Revenue,,17266.59,Sales invoice,system,system
+J0228,3,2025-12-12,5000,Cost of Goods Sold,10791.46,,Sales invoice,system,system
+J0228,4,2025-12-12,1200,Inventory,,10791.46,Sales invoice,system,system
+J0222,1,2025-12-14,6300,Utilities Expense,159.43,,Utilities bill,system,system
+J0222,2,2025-12-14,2000,Accounts Payable,,159.43,Utilities bill,system,system
+J0232,1,2025-12-15,1000,Cash at Bank,19918.99,,Customer receipt,system,system
+J0232,2,2025-12-15,1100,Accounts Receivable,,19918.99,Customer receipt,system,system
+J0224,1,2025-12-18,1000,Cash at Bank,2518.58,,Customer receipt,system,system
+J0224,2,2025-12-18,1100,Accounts Receivable,,2518.58,Customer receipt,system,system
+J0229,1,2025-12-20,2000,Accounts Payable,4881.48,,Supplier payment,system,system
+J0229,2,2025-12-20,1000,Cash at Bank,,4881.48,Supplier payment,system,system
+J0234,1,2025-12-21,1000,Cash at Bank,12819.16,,Customer receipt,system,system
+J0234,2,2025-12-21,1100,Accounts Receivable,,12819.16,Customer receipt,system,system
+J0225,1,2025-12-26,1100,Accounts Receivable,24620.47,,Sales invoice,system,system
+J0225,2,2025-12-26,4000,Sales Revenue,,24620.47,Sales invoice,system,system
+J0225,3,2025-12-26,5000,Cost of Goods Sold,13800.69,,Sales invoice,system,system
+J0225,4,2025-12-26,1200,Inventory,,13800.69,Sales invoice,system,system
+J0226,1,2025-12-27,1000,Cash at Bank,16836.44,,Customer receipt,system,system
+J0226,2,2025-12-27,1100,Accounts Receivable,,16836.44,Customer receipt,system,system
+J0245,1,2025-12-27,1500,Equipment,22000.00,,Reclass expenses,manual,brian
+J0245,2,2025-12-27,6200,Salaries Expense,,22000.00,Reclass expenses,manual,brian
+J0235,1,2025-12-28,6100,Rent Expense,4500.00,,Monthly rent,system,system
+J0235,2,2025-12-28,1000,Cash at Bank,,4500.00,Monthly rent,system,system
+J0236,1,2025-12-28,6200,Salaries Expense,12800.00,,Monthly salaries,system,system
+J0236,2,2025-12-28,1000,Cash at Bank,,12800.00,Monthly salaries,system,system
+J0237,1,2025-12-28,6800,Depreciation Expense,3333.33,,Monthly depreciation,system,system
+J0237,2,2025-12-28,1500,Equipment,,3333.33,Monthly depreciation,system,system
+J0238,1,2025-12-28,7000,Interest Expense,580.00,,Loan interest,system,system
+J0238,2,2025-12-28,1000,Cash at Bank,,580.00,Loan interest,system,system
+J0244,1,2025-12-31,1100,Accounts Receivable,85000.00,,Adjustment per CEO - confidential,manual,ceo
+J0244,2,2025-12-31,4000,Sales Revenue,,85000.00,Adjustment per CEO - confidential,manual,ceo
