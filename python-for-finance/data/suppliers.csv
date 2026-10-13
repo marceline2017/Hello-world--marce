@@ -1,0 +1,13 @@
+supplier_id,supplier_name,bank_account,payment_terms_days,status,created_date
+S001,Prime Goods Wholesale,01-2233-4455,30,Active,2019-03-01
+S002,Metro Power & Water,02-7788-1100,15,Active,2018-01-15
+S003,Skyline Properties,03-5566-7788,30,Active,2017-06-30
+S004,Sunrise Office Supplies,01-9900-1122,30,Active,2020-02-11
+S005,Global Travel Ltd,04-3344-5566,30,Active,2021-08-19
+S006,BrightPath Consulting,05-6677-8899,45,Active,2022-04-04
+S007,Coastal Packaging,02-1212-3434,30,Active,2020-10-10
+S008,Highland Logistics,06-4545-6767,30,Active,2019-12-01
+S009,Quick Fix Services,07-8989-0101,30,Blocked,2023-05-05
+S010,Apex Legal Advisors,08-2323-4545,30,Active,2016-09-09
+S011,Fast Supplies Ltd,09-1357-2468,7,Active,2025-09-22
+S012,Skyline Property Mgmt,03-5566-7788,30,Active,2025-10-03

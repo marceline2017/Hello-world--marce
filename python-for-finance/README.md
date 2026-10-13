@@ -77,13 +77,15 @@ yourself – don't copy and paste. Your fingers learn too.
 | 11 | [Bank reconciliation](lessons/lesson11_bank_reconciliation.py) | matching two files, finding differences | reperforming the client's December bank rec |
 | 12 | [Budget vs actual](lessons/lesson12_budget_analysis.py) | variances, thresholds, flexed budgets | budget testing and analytical review |
 | 13 | [Journals & trial balance](lessons/lesson13_journals_trial_balance.py) | double entry, building a TB | unbalanced journals, suspense, manual journal testing |
+| 14 | [Accounts receivable](lessons/lesson14_accounts_receivable.py) | open items, ageing, provisions | aged debtors, credit limits, bad-debt provision, after-date cash, cut-off, confirmation letters |
+| 15 | [Accounts payable](lessons/lesson15_accounts_payable.py) | three-way match, payment tests | ghost suppliers, duplicate payments, unrecorded liabilities, supplier statement rec |
 | ★ | [Capstone project](capstone/PROJECT_BRIEF.md) | everything together | a full year-end ledger review + memo |
 
 All outputs (Excel files, charts, CSVs) are saved in the `output/` folder.
 
 ---
 
-## 3b. Practice sets – lots of extra practice (79 tasks)
+## 3b. Practice sets – lots of extra practice (119 tasks)
 
 After the lessons, work through these. Each task is a small, real audit or
 finance job. They start easy ("Warm-up") and get harder ("Challenge").
@@ -94,6 +96,8 @@ finance job. They start easy ("Warm-up") and get harder ("Challenge").
 | 2 | [Journals & trial balance](practice/02_journals_and_trial_balance.py) | 18 | building and comparing a TB, roll-forwards, debtor/creditor/inventory days, reperforming depreciation, recurring journal completeness | Lesson 13 |
 | 3 | [Bank reconciliation](practice/03_bank_reconciliation.py) | 18 | casting, matching, outstanding cheques, deposits in transit, stale cheques, finding the client's errors, adjusting entries | Lesson 11 |
 | 4 | [Budget analysis](practice/04_budget_analysis.py) | 18 | testing the budget, variances, F/A, thresholds, YTD, flexed budget, seasonality, budget realism, forecasts | Lesson 12 |
+| 5 | [Accounts receivable](practice/05_accounts_receivable.py) | 20 | customer concentration, payment speed, ageing, provisions, DSO, after-date cash, cut-off, confirmation sample and replies | Lesson 14 |
+| 6 | [Accounts payable](practice/06_accounts_payable.py) | 20 | goods received not invoiced (accrual), three-way match, duplicates, payment timing, supplier master, unrecorded liabilities, supplier statement | Lesson 15 |
 
 Write your answers under each `# TODO`. Solutions are in `practice/solutions/`.
 There is always more than one right answer. If your numbers match, you got it!
@@ -128,6 +132,20 @@ There is always more than one right answer. If your numbers match, you got it!
 - `journal_lines.csv` – about 250 journals (600 debit/credit lines) for 2025,
   with unbalanced journals, suspense postings and suspicious manual journals hidden inside.
 - `client_trial_balance.csv` – the client's trial balance (it doesn't agree to the journals!).
+
+**Accounts receivable** (customers who owe us)
+- `customers.csv` – customer list with credit limits and payment terms (one is blocked).
+- `ar_invoices.csv`, `ar_receipts.csv` – sales invoices and money received in 2025.
+- `ar_receipts_2026.csv`, `ar_credit_notes_2026.csv` – what happened after year end.
+- `client_ar_aging.csv` – the client's aged debtors report (**it hides an old debt**).
+
+**Accounts payable** (suppliers we owe)
+- `suppliers.csv`, `employees.csv` – supplier and staff lists with bank accounts.
+- `purchase_orders.csv`, `goods_received.csv`, `ap_invoices.csv` – the purchase-to-pay trail.
+- `ap_payments.csv`, `ap_payments_2026.csv` – payments in 2025 and after year end.
+- `supplier_statement_S006.csv` – a statement from one supplier to reconcile.
+- Hidden inside: a ghost supplier paid into an employee's account, duplicate
+  invoices and payments, a changed bank account, unrecorded liabilities and more.
 
 ---
 

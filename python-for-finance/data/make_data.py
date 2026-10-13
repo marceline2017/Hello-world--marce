@@ -239,4 +239,6 @@ if __name__ == "__main__":
     make_messy_invoices()
     import make_practice_data          # the extra files for lessons 11-13
     make_practice_data.main()
+    import make_arap_data              # receivables and payables (lessons 14-15)
+    make_arap_data.main()
     print("Done! Your practice data is ready.")
