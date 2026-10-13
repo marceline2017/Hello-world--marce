@@ -186,5 +186,5 @@ print(f"Saved {report_file.name}")
 #   One important number .............. no chart - just show the number big!
 #   AVOID: pie charts with many slices, 3D charts, two y-axes.
 #
-# NEXT: exercises/exercise10.py, then lessons 11-13 and the practice sets!
+# NEXT: exercises/exercise10.py, then lessons 11-15 and the practice sets!
 # ===============================================================

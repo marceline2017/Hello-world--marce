@@ -1,0 +1,15 @@
+customer_id,customer_name,credit_limit,payment_terms_days,status
+C001,Acme Corp,150000,30,Active
+C002,Beta Ltd,120000,30,Active
+C003,Gamma Inc,80000,45,Active
+C004,Delta Co,60000,30,Active
+C005,Omega Traders,100000,60,Active
+C006,Zeta Retail,50000,30,Active
+C007,Kappa Foods,90000,45,Active
+C008,Lambda Stores,70000,30,Active
+C009,Sigma Hardware,40000,30,Active
+C010,Theta Pharma,130000,60,Active
+C011,Nova Builders,40000,30,Active
+C012,Orion Hotels,60000,45,Active
+C013,Vega Motors,30000,30,Blocked
+C014,Polar Logistics,50000,30,Active

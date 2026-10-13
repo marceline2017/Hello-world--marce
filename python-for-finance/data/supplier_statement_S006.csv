@@ -1,0 +1,15 @@
+date,ref,description,invoice,payment,balance
+2025-10-01,,Balance brought forward,,,6857.89
+2025-10-23,BR-79777,Invoice,644.52,,7502.41
+2025-10-28,BR-20901,Invoice,7359.21,,14861.62
+2025-10-28,BR-73114,Invoice,3088.11,,17949.73
+2025-11-03,PY-3152,Payment received - thank you,,4862.41,13087.32
+2025-11-05,PY-3167,Payment received - thank you,,1995.48,11091.84
+2025-11-14,BR-96153,Invoice,9597.66,,20689.50
+2025-12-04,PY-3178,Payment received - thank you,,644.52,20044.98
+2025-12-12,PY-3174,Payment received - thank you,,6909.21,13135.77
+2025-12-12,PY-3176,Payment received - thank you,,3088.11,10047.66
+2025-12-15,BR-14328,Invoice,743.67,,10791.33
+2025-12-16,BR-85145,Invoice,3739.25,,14530.58
+2025-12-26,BR-21117,Invoice,1918.83,,16449.41
+2025-12-30,BP-99117,Invoice - December advisory,6200.00,,22649.41

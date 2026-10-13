@@ -1,0 +1,5 @@
+credit_note_no,customer_id,date,invoice_no,amount,reason
+CN-26001,C002,2026-01-07,INV-25337,38500.0,Goods not delivered - invoice raised in error
+CN-26002,C002,2026-01-08,INV-25338,42750.0,Goods not delivered - invoice raised in error
+CN-26003,C002,2026-01-09,INV-25339,27900.0,Goods not delivered - invoice raised in error
+CN-26004,C007,2026-01-20,,650.0,Price discount January order
